@@ -91,10 +91,10 @@
   <a name="user_interface"/>
   
   ## 2.2 Интерфейфейс пользователя
-  Окно выбора маршрута
-  ![](https://github.com/hsomrays/tritpo/blob/main/1.png)
-  Окно просмотра купленных билетов
-  ![](https://github.com/hsomrays/tritpo/blob/main/2.png)
+  
+  ![Окно выбора маршрута](https://github.com/hsomrays/tritpo/blob/main/1.png)
+  
+  ![Окно просмотра купленных билетов](https://github.com/hsomrays/tritpo/blob/main/2.png)
   <a name="user_specifications"/>
   
   ## 2.3 Характеристики пользователей
