@@ -86,15 +86,22 @@
 <a name="software_interfaces"/>
   
   ## 2.1 Программные интерфейсы
+   <a name="user_interface"/>
   Язык программирования: Kotlin.
   
-  <a name="user_interface"/>
+
   
   ## 2.2 Интерфейфейс пользователя
+  <a name="user_interface"/>
+  
+  Окно выбора маршрута.
   
   ![Окно выбора маршрута](https://github.com/hsomrays/tritpo/blob/main/1.png)
   
+  Окно просмотра купленных билетов.
+  
   ![Окно просмотра купленных билетов](https://github.com/hsomrays/tritpo/blob/main/2.png)
+  
   <a name="user_specifications"/>
   
   ## 2.3 Характеристики пользователей
