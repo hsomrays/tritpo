@@ -91,8 +91,10 @@
   <a name="user_interface"/>
   
   ## 2.2 Интерфейфейс пользователя
+  Окно выбора маршрута
   ![](https://github.com/hsomrays/tritpo/blob/main/1.png)
-  
+  Окно просмотра купленных билетов
+  ![](https://github.com/hsomrays/tritpo/blob/main/2.png)
   <a name="user_specifications"/>
   
   ## 2.3 Характеристики пользователей
@@ -109,7 +111,7 @@
   <a name="target_audience"/>
   
   #### 2.3.2.1 Целевая аудитория
-  Люди, желающие отправиться куда-то.
+  Люди, желающие отправиться в определенное место.
   <a name="collateral_audience"/>
   
   #### 2.3.2.2 Побочная аудитория
