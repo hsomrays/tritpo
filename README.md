@@ -90,6 +90,7 @@
   <a name="user_interface"/>
   
   ## 2.2 Интерфейфейс пользователя
+  https://github.com/hsomrays/tritpo/blob/main/1.png
   
   <a name="user_specifications"/>
   
